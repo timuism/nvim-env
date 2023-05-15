@@ -8,5 +8,9 @@ I am very new to vim, I based much of this off of https://www.youtube.com/watch?
 **iTerm 2 in recommened for this!**
 
 1. Clone the repo
-1. Copy or move the `nvim` folder into `~/.config`
+1. Copy the `nvim` folder into `~/.config`
 1. Relaunch terminal and open `nvim`
+
+
+## tmux
+I added the tmux conf file to this project as well. This file should be copied directly into `~`
